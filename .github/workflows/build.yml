@@ -84,7 +84,7 @@ jobs:
               with:
                   tagName: 'OiaWrite'
                   releaseName: 'OiaWrite v__VERSION__'
-                  releaseBody: '初始版本'
+                  releaseBody: '第二版本，加入了窗口左上角的标题'
                   releaseDraft: false
                   prerelease: false
                   publish: true
