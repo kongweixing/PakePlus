@@ -1,6 +1,6 @@
 [package]
 name = "OiaWrite"
-version = "1.0.0"
+version = "1.0.1"
 description = "网文小说在线智能辅助写作-OiaWrite(Online Intelligent Assisted Write)，是由墨星写作网推出的在线辅助网文写作工具，探索用AI技术提升网文写作效率和小说智能创作体验。"
 authors = ["1024xiaoshen"]
 edition = "2021"
